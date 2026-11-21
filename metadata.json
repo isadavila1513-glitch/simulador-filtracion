@@ -1,0 +1,6 @@
+{
+  "name": "HidroLab IoT — Simulador de Filtración y Video",
+  "description": "Simulación interactiva de filtrado de agua en botella de 7 capas con cloración por venoclisis, sensores ESP32, celda de carga, alertas a salud pública y generación de video con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
